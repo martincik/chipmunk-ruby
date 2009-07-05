@@ -35,10 +35,9 @@ ext/rb_cpShape.c
 ext/rb_cpSpace.c
 ext/rb_cpVect.c
 lib/chipmunk/version.rb
-lib/chipmunk.rb
 LICENSE
+Manifest
 Rakefile
 README.rdoc
 tasks/docs.rake
 tasks/gems.rake
-Manifest
