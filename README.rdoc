@@ -1,0 +1,6 @@
+== Chipmunk-ruby
+Ruby bindings for Chipmunk Physics library
+
+== Copyright
+
+Copyright (c) 2009 Scott Lembcke. See LICENSE for details.
